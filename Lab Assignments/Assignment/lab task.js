@@ -134,4 +134,4 @@ const DiscountCalculatorApp = () => {
   );
 };
 
-export default DiscountCalculatorApp;
+export default  App;
